@@ -2,6 +2,7 @@ Hi, I'm George.
 
 Computer Science Student @ CU, Specialization in Cybersecurity.
 
-Interested in Low-Level Programming (C/C++/Rust), Embedded Systems, Cybersecurity.
-
-Currently: I'm making a file-previewer for Linux, using C++, and Qt.
+Currently:
+- Learning Networking, Cybersecurity, and IoT projects
+- Involved in CUInSpace, Carleton Cybersecurity Club
+- Summer 2026 CCSS Volunteer Developer
